@@ -1,0 +1,34 @@
+Group is
+  $/basis.cm
+  $/smlnj-lib.cm
+  
+  hamlet.cm
+
+  hamlet/syntax/SyntaxCoreFn.sml
+  hamlet/syntax/SyntaxModuleFn.sml
+  hamlet/syntax/SyntaxProgramFn.sml
+  hamlet/syntax/Syntax.sml
+  
+  Settings.sml
+  
+  smt/SMTLib.sml
+  smt/SMT_LIB_UTILS-sig.sml
+  smt/SMTLibUtils.sml
+  smt/Solver.sml
+  
+  simple/SYMBOL-sig.sml
+  simple/Symbol.sml
+  simple/SimplifiedSyntax.sml
+  simple/SimplifiedUtils.sml
+
+  isomorphism-smt/SML_TO_SIMPLIFIED-sig.sml
+  isomorphism-smt/SmlToSimplified.sml
+  isomorphism-smt/IsomorphismSMT.sml
+
+  plumbing/PARSER-sig.sml
+  plumbing/Parser.sml
+  plumbing/EXTRACT-sig.sml
+  plumbing/Extract.sml
+  plumbing/BUCKETIZE-sig.sml
+  plumbing/Bucketize.sml
+  plumbing/Top.sml

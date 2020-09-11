@@ -1,0 +1,2 @@
+Skeleton 5
+ad"SyntacticRestrictionsModule"jh5Cegp1d"SyntaxModule"egp1d"AnnotationModule"egp1d"BindingObjectsModule"egp1d"Error"f5Cd"SyntacticRestrictionsCore"d"FunIdMap"d"VIdMap"d"BindingEnv"d"StrIdMap"Cd"TyConMap"d"SigIdMap"d"TyVarSet"d"IdStatus"d"BindingBasis"NNgp1c"SYNTACTIC_RESTRICTIONS_MODULE"

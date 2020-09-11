@@ -1,0 +1,2 @@
+Skeleton 5
+ad"StaticEnv"jh4aä¢GenericEnv"jh1åçð±ä¢StaticObjectsCore"gp1e"GenericEnvFn"egp1ÿÿ!f8d"List"d"Type"d"TyName"Cd"VIdMap"d"TyNameMap"d"TyNameSet"d"TypeScheme"d"StampMap"Cd"TypeFcn"d"StrIdMap"d"TyConMap"d"TyVarSet"d"IdStatus"Ngp1c"STATIC_ENV"

@@ -1,0 +1,2 @@
+Skeleton 5
+d9aγΆSTREAM"θ0aγΆLR_TABLE"ÿaγΆTOKEN"h1αδΆLrTable"ηπ±ÿac"LR_PARSER"h3αδΆStream"ηπ±ÿÿ'αδΆToken"ηπ±ÿCac"LEXER"θ±αδΆUserDeclarations"ÿac"ARG_LEXER"ÿ/ac"PARSER_DATA"h4ÿ'ÿad"Actions"ÿad"EC"ÿac"PARSER"θ²ÿÿac"ARG_PARSER"ÿƒN

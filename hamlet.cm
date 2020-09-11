@@ -1,0 +1,62 @@
+Library
+  structure Infix
+  structure BindingBasis
+  structure Basis
+  structure Program
+  structure InitialInfixEnv
+  structure StaticBasis
+  structure StaticLibrary
+  structure InitialStaticBasis
+  structure InitialDynamicBasis
+  structure DynamicLibrary
+  structure SyntacticRestrictionsProgram
+  structure PPProgram
+  structure PPModule
+  structure PPCore
+  structure Parse
+  structure CompileJS (* to take out *)
+  structure Use
+  structure Error
+
+  structure LabMap
+  structure TyVarSet
+  structure StaticEnv
+  structure TypeScheme
+  structure SigId
+  structure TyCon
+  structure TyVar
+  structure LongTyCon
+  structure LongStrId
+  structure Source
+  structure BindingObjectsCore
+  structure TyConMap
+  structure VIdMap
+  structure StrIdMap
+  structure IdsCore
+  structure StaticObjectsCore
+  structure StaticObjectsModule
+  structure PrettyPrint
+  structure TyName
+  structure TyNameSet
+  structure PPStaticEnv
+  structure PPType
+  structure PPStaticBasis 
+  structure PPSyntax
+  structure AnnotationModule
+  structure AnnotationCore
+  structure AnnotationProgram
+  structure AnnotationElab
+  structure ElabProgram
+
+  structure Annotation
+  structure Lab
+  structure VId
+  structure LongVId
+  structure StrId
+  structure FunId
+  structure SCon
+  structure SyntaxProgram
+  structure SyntaxModule
+  structure SyntaxCore
+is
+  hamlet/sources.cm

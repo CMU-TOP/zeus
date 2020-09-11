@@ -1,0 +1,2 @@
+Skeleton 5
+d2f7d"IO"d"OS"Cd"Int"d"Use"d"List"d"String"d"StaticBasis"Cd"TextIO"d"InitialInfixEnv"d"CompileJS"d"PPProgram"d"Basis"Cd"Error"d"Infix"d"Parse"d"InitialStaticBasis"d"SyntacticRestrictionsProgram"Cd"InitialDynamicBasis"d"DynamicLibrary"d"Program"d"StaticLibrary"d"BindingBasis"Nad"Sml"jh0gp1c"SML"

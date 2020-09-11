@@ -1,0 +1,2 @@
+Skeleton 5
+ae"LrValsFn"i2aä¢Token"gp1c"TOKEN"f±ÿh2ad"ParserData"h7aä¢Header"h9aä¢A"gp1d"Annotation"egp1d"SyntaxCore"egp1d"SyntaxModule"egp1d"SyntaxProgram"Cegp1d"DerivedFormsCore"egp1d"DerivedFormsModule"egp1d"DerivedFormsProgram"f4ÿä¢List"ä¢Infix"ä¢StrId"begp1ÿf0Naä¢LrTable"gp2ÿÿ„Caÿgpÿ#båçğ±ÿ„f6d"Char"Cÿƒ!d"String"d"General"ÿ„d"Array"Nbåçğ±ÿ9d2f2d"Source"ÿƒ(aä¢MlyValue"è0ad"EC"h2ÿ„bÿ…æ±ÿ…*ad"Actions"h2bÿ…f8ÿd"Int"d"Lab"Cd"VId"ÿƒ!d"SCon"d"Option"d"LongVId"Cÿ„d"FunId"ÿƒ(d"SigId"ÿƒ0Cd"TyCon"d"TyVar"ÿ…*d"LongStrId"d"LongTyCon"Nÿ†Nad"Tokens"jÿ…5gp1c"Parser_TOKENS"

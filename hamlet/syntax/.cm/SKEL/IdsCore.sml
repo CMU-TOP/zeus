@@ -1,0 +1,2 @@
+Skeleton 5
+d9f6d"Lab"Cd"TyVar"d"TyVarMap"d"TyVarSet"d"LabMap"d"LabSet"NaдҐVId"ки0зр±еҐIdFn"aдҐTyCon"€БaдҐStrId"€БCad"LongVId"jh2aдҐId"gp1€=б€Бзр±€Бзр±еҐLongIdFn"ad"LongTyCon"jh2a€Б8gp1€Б€В€Вad"LongStrId"jh2a€Б8€В€В€Вad"VIdSet"к€Бзр±еҐFinSetFn"ad"TyConSet"€Г!Cad"StrIdSet"€Г!ad"VIdMap"к€Бзр±еҐFinMapFn"ad"TyConMap"€Дad"StrIdMap"€Дad"IdsCore"€БN

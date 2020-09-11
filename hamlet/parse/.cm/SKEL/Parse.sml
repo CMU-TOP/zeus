@@ -1,0 +1,2 @@
+Skeleton 5
+d2f4d"Source"d"SyntaxProgram"d"Error"d"Infix"ad"Parse"jh4aä¢LrVals"jh1aä¢Token"gp2ä¢LrParser"ÿgp1e"LrValsFn"aä¢RawLexer"jh1aä¢Tokens"gp2ÿ:ÿ>gp1e"LexerFn"aä¢LocLexer"jh1aÿ/gp1ÿ/gp1eÿ‚ad"Parser"jh3aÿgp1ÿaä¢ParserData"gp2ÿ:ÿƒad"Lex"gp1ÿ‚gp1e"Join"gp1c"PARSE"

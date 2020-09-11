@@ -1,0 +1,2 @@
+Skeleton 5
+ad"SyntacticRestrictionsCore"jh6egp1d"SyntaxCore"Cegp1d"AnnotationCore"egp1d"BindingObjectsCore"egp1d"Error"egp1d"BindingContext"f6d"VId"Cd"List"d"SCon"d"VIdMap"d"BindingEnv"d"ScopeTyVars"Cd"LongVId"d"TyConMap"d"TyVarSet"d"IdStatus"d"LabSet"NNgp1c"SYNTACTIC_RESTRICTIONS_CORE"

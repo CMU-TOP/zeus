@@ -1,0 +1,2 @@
+Skeleton 5
+d2f7d"List"d"StaticBasis"Cä¢SyntaxProgram"d"Error"d"Annotation"ä¢JSSyntax"d"JSTranslateModule"Nad"JSTranslateProgram"jh3ad"ML"gp1ÿad"A"gp1d"AnnotationProgram"ad"JS"gp1ÿ?gp1c"JS_TRANSLATE_PROGRAM"

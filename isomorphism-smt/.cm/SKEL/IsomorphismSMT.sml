@@ -1,0 +1,2 @@
+Skeleton 5
+d2f2ä¢SimplifiedSyntax"ä¢SmlToSimplified"ad"Isomorphism"jh5Caä¢A"gp1ä¢Annotation"aä¢S"gp1ÿegp1d"SMTLib"f7ÿ=ÿCd"Fn"d"Int"d"List"d"PPCore"d"Option"Cd"PPType"d"ListPair"d"Solver"d"String"d"Symbol"Cd"TextIO"d"TyName"d"TyVar"d"StaticObjectsCore"ÿCd"PrettyPrint"d"SyntaxCore"d"LongTyCon"ÿd"LabMap"Nad"Dict"jè0gp1e"BinaryMapFn"Nÿ„3

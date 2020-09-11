@@ -1,0 +1,2 @@
+Skeleton 5
+d7aä¢AnnotationElab"h1egp1d"Annotation"aä¢AnnotationCore"h2åçğ±ÿbåçğ±ä¢StaticObjectsCore"æ0Caä¢SyntaxCore"jgp1ÿ(gp1e"SyntaxCoreFn"aä¢AnnotationModule"h3ÿ;ad"Core"gp1ÿbd2ÿåçğ±ä¢StaticObjectsModule"ÿaä¢SyntaxModule"jgp1ÿ‚gp1e"SyntaxModuleFn"aä¢AnnotationProgram"h3ÿ;ad"Module"gp1ÿƒbÿ‚/ÿad"SyntaxProgram"jgp1ÿƒ8gp1e"SyntaxProgramFn"N

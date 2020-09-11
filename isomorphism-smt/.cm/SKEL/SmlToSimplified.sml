@@ -1,0 +1,2 @@
+Skeleton 5
+d2f5Cd"Lab"d"VId"d"List"d"SCon"d"PPCore"Cd"PPType"d"String"d"Symbol"d"AnnotationProgram"d"TextIO"Cd"LongVId"d"TyCon"d"TyVar"d"StaticObjectsCore"ä¢Annotation"Cd"PrettyPrint"ä¢SyntaxCore"d"StaticEnv"d"TyVarSet"d"AnnotationCore"Nad"SmlToSimplified"jh4ad"A"gp1ÿ‚ad"SC"gp1ÿ‚,ad"S"gp1d"SimplifiedSyntax"ad"M"jh0gp1e"BinaryMapFn"gp1c"SML_TO_SIMPLIFIED"

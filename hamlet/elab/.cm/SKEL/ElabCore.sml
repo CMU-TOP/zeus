@@ -1,0 +1,2 @@
+Skeleton 5
+ad"ElabCore"jh5Cegp1d"SyntaxCore"egp1d"AnnotationCore"egp1ä¢StaticObjectsCore"egp1d"Error"f9d"Clos"d"List"d"SCon"d"Type"Cd"Option"d"Source"d"TyName"d"VIdMap"d"LibrarySVal"Cd"TyNameSet"d"TypeScheme"d"ScopeTyVars"d"TypeFcn"d"LongVId"Cd"InitialStaticEnv"d"TyCon"ÿ:d"TyConMap"d"CheckPattern"Cd"StaticEnv"d"Context"d"TyVarSet"d"StaticLibrary"d"IdStatus"NNgp1c"ELAB_CORE"

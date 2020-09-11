@@ -1,0 +1,2 @@
+Skeleton 5
+d2ae"Join"i4бдўParserData"зр±гўPARSER_DATA"aдўLex"gp1c"LEXER"бдўLrParser"зр±гўLR_PARSER"жія,яя>jиІбдўToken"зрІяяЃ$бдўStream"зрІя>яЃ5gp1c"PARSER"ae"JoinWithArg"i4яaя,gp1c"ARG_LEXER"я=яЃjяЃ!gp1c"ARG_PARSER"
